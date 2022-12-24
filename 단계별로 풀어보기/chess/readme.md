@@ -1,3 +1,4 @@
+문제 번호 : 3003
 각각의 정답이 담겨있는 배열 answer, \
 Scanner를 통해서 입력한 흰색 핀의 각각의 개수들이 담겨있는 배열 white,\
 white와 answer의 각 요소별 차이를 나타내주는 배열 feedback을 선언한다.\
