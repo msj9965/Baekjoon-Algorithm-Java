@@ -1,9 +1,4 @@
-import java.io.*;
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.StringTokenizer;
 
-public class Main {
     public static int[][]arr;
     public static boolean[] value;
     public static int N,line;
@@ -48,4 +43,3 @@ public class Main {
         }
         return count;
     }
-}
